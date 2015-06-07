@@ -1,0 +1,18 @@
+
+=== qr.js DEMO
+
+This git repository contains only a simple DEMO html page for:
+
+* https://github.com/neocotic/qr.js
+
+
+==== try out at home
+
+e.g.:
+{{{
+~$ git clone https://github.com/jedie/qr.js.demo.git
+~$ cd qr.js.demo
+~/qr.js.demo$ git submodule init
+~/qr.js.demo$ git submodule update
+~/qr.js.demo$ firefox index.html
+}}}
