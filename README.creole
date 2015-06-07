@@ -6,6 +6,9 @@ This git repository contains only a simple DEMO html page for:
 * https://github.com/neocotic/qr.js
 
 
+Try out: https://jedie.github.io/qr.js.demo/
+
+
 ==== try out at home
 
 e.g.:
