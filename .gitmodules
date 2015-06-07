@@ -1,0 +1,3 @@
+[submodule "qr.js"]
+	path = qr.js
+	url = https://github.com/neocotic/qr.js.git
